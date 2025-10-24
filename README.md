@@ -1,2 +1,0 @@
-# tedk.github.io
-image
